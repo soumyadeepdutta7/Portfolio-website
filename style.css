@@ -206,10 +206,10 @@ header {
   width: 50%;
 }
 .progress-line .javascript {
-  width: 50%;
+  width: 70%;
 }
 .progress-line .reactjs {
-  width: 40%;
+  width: 60%;
 }
 
 .bar .progress-line span::before {
@@ -248,10 +248,10 @@ header {
   content: "50%";
 }
 .progress-line .javascript::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line .reactjs::after {
-  content: "40%";
+  content: "60%";
 }
 
 .navbar.solid {
