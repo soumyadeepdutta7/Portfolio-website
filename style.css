@@ -202,9 +202,6 @@ header {
 .progress-line .css {
   width: 70%;
 }
-.progress-line .bootstrap {
-  width: 50%;
-}
 .progress-line .javascript {
   width: 70%;
 }
@@ -243,9 +240,6 @@ header {
 }
 .progress-line .css::after {
   content: "70%";
-}
-.progress-line .bootstrap::after {
-  content: "50%";
 }
 .progress-line .javascript::after {
   content: "70%";
