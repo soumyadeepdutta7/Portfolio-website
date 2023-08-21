@@ -206,10 +206,10 @@ header {
   width: 70%;
 }
 .progress-line .reactjs {
-  width: 60%;
+  width: 65%;
 }
 .progress-line .frappe {
-  width: 50%;
+  width: 60%;
 }
 
 .progress-line .nodejs {
@@ -256,10 +256,10 @@ header {
   content: "70%";
 }
 .progress-line .reactjs::after {
-  content: "60%";
+  content: "65%";
 }
 .progress-line .frappe::after {
-  content: "50%";
+  content: "60%";
 }
 
 .progress-line .nodejs::after {
