@@ -208,6 +208,17 @@ header {
 .progress-line .reactjs {
   width: 60%;
 }
+.progress-line .frappe {
+  width: 50%;
+}
+
+.progress-line .nodejs {
+  width: 50%;
+}
+
+.progress-line .jinja {
+  width: 75%;
+}
 
 .bar .progress-line span::before {
   position: absolute;
@@ -246,6 +257,17 @@ header {
 }
 .progress-line .reactjs::after {
   content: "60%";
+}
+.progress-line .frappe::after {
+  content: "50%";
+}
+
+.progress-line .nodejs::after {
+  content: "50%";
+}
+
+.progress-line .jinja::after {
+  content: "75%";
 }
 
 .navbar.solid {
