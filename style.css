@@ -219,8 +219,6 @@ header {
 .progress-line .jinja {
   width: 75%;
 }
-.progress-line .git {
-  width: 65%;
 
 .bar .progress-line span::before {
   position: absolute;
@@ -271,9 +269,6 @@ header {
 .progress-line .jinja::after {
   content: "75%";
 }
-.progress-line .git::after {
-  content: "65%";
-}  
 
 .navbar.solid {
   background-color: #07374a;
