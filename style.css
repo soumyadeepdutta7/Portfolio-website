@@ -272,7 +272,7 @@ header {
   content: "75%";
 }
 .progress-line .git::after {
-  content: "75%";
+  content: "65%";
 }  
 
 .navbar.solid {
